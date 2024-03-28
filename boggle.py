@@ -1,5 +1,3 @@
-#$nice work!
-
 from graphics import Button
 from game import Game
 import pygame as pg
