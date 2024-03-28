@@ -1,5 +1,3 @@
-#$nice work!
-
 from colorama import Fore
 from gambler import SixSidedDie, PredictableDie
 
