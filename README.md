@@ -1,4 +1,4 @@
-#Taken rules from Boggle's wikipedia article. To run, use "python3 bogglegame.py".
+# Taken rules from Boggle's wikipedia article. To run, use "python3 bogglegame.py".
 
 Each player searches for words that fit the following criteria:
 
