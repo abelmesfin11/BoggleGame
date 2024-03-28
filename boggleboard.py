@@ -1,7 +1,3 @@
-#$nice helper methods! See below for comment on checking to not select a cube 
-#$that's already been selected and on unselect_all() 
-
-
 from bogglecube import BoggleCube
 from gambler import Shuffler, PredictableShuffler, SixSidedDie, PredictableDie
 
