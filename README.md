@@ -1,3 +1,3 @@
-# Lab 9 : Boggle
+# Boggle
 
 Collaboration: *enter names of others you worked with*
